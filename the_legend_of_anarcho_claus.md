@@ -1,4 +1,4 @@
-Little Janie White wants a chemistry set for Christmas, but her parents prohibit it. Tearfully waiting up until midnight for Santa Claus to appear so she can plead her case, Janie instead discovers an elf dressed in black on her hearth. He's Anarcho Claus, who sneaks out of Elf-Land on Christmas Eve in a sleek black sleigh piloted by C.Bviolence. – a very gruff polar bear – and led by Rudy the reindeer, whose black-light nose stealthily guides the way. Together, they bring all sorts of forbidden toys to non-coercive girls and boys.
+Little Janie White wants a chemistry set for Christmas, but her parents prohibit it. Tearfully waiting up until midnight for Santa Claus to appear so she can plead her case, Janie instead discovers an elf dressed in black on her hearth. He's Anarcho Claus, who sneaks out of Elf-Land on Christmas Eve in a sleek black sleigh piloted by C.B. – a very gruff polar bear – and led by Rudy the reindeer, whose black-light nose stealthily guides the way. Together, they bring all sorts of forbidden toys to non-coercive girls and boys.
 
 With ice-breathing dragons and the US Air Force in hot pursuit, Anarcho Claus spirits Janie away to the North Pole, where she learns the secret behind Santa's annual toy dumping and the reason for Anarcho's defiance.
 
@@ -415,55 +415,55 @@ Her parents ventured downstairs, drawn by the commotion, to find little Alexandr
 
 <big>The End</big>
 
-**Anarcho Claus is Coming to Town**
+Anarcho Claus is Coming to Town
 
-**by Samuel Edward Konkin III**
+*by Samuel Edward Konkin III*
 
 (“Santa Claus is /coming to Town”)
 
 ---
 
-***Initiate force?***
+Initiate force?
 
-***You’d better not try!***
+You’d better not try!
 
-***You’d better not steal;***
+You’d better not steal;
 
-***I’m telling you why.***
+I’m telling you why.
 
-***Anarcho Claus is coming to town.***
-
----
-
-***He’s taking a risk,
-
-***Flying in low,
-
-***Smuggling in toys
-
-***So the statists won’t know
-
-***Anarcho Claus is coming to town.
+Anarcho Claus is coming to town.
 
 ---
 
-***He sees you when you’re trying
+He’s taking a risk,
 
-***To trade what’s “good” for you
+Flying in low,
 
-***For all the stuff you <i>really</i> want.
+Smuggling in toys
 
-***He’ll run it in for you!
+So the statists won’t know
 
-***<i>So…</i>
+Anarcho Claus is coming to town.
 
-***Close up your door
+---
 
-***But not very tight
+He sees you when you’re trying
 
-***The market will clear
+To trade what’s “good” for you
 
-***Late Christmas night.
+For all the stuff you <i>really</i> want.
 
-***Anarcho Claus is coming to town.
+He’ll run it in for you!
+
+<i>So…</i>
+
+Close up your door
+
+But not very tight
+
+The market will clear
+
+Late Christmas night.
+
+Anarcho Claus is coming to town.
 
