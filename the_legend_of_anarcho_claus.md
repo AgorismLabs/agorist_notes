@@ -4,9 +4,9 @@ With ice-breathing dragons and the US Air Force in hot pursuit, Anarcho Claus sp
 
 Wicked and witty, The Legend of Anarcho Claus is the one Christmas gift you'll read to your children all year long.
 
-#The Legend of Anarcho Claus
+# The Legend of Anarcho Claus
 
-##by Samuel Edward Konkin III and Victor Koman
+## by Samuel Edward Konkin III and Victor Koman
 
 KoPubCo
 
@@ -415,55 +415,55 @@ Her parents ventured downstairs, drawn by the commotion, to find little Alexandr
 
 <big>The End</big>
 
-**Anarcho Claus is Coming to Town
+**Anarcho Claus is Coming to Town**
 
-by Samuel Edward Konkin III**
+**by Samuel Edward Konkin III**
 
 (“Santa Claus is /coming to Town”)
 
 ---
 
-***Initiate force?
+***Initiate force?***
 
-You’d better not try!
+***You’d better not try!***
 
-You’d better not steal;
+***You’d better not steal;***
 
-I’m telling you why.
+***I’m telling you why.***
 
-Anarcho Claus is coming to town.
-
----
-
-He’s taking a risk,
-
-Flying in low,
-
-Smuggling in toys
-
-So the statists won’t know
-
-Anarcho Claus is coming to town.
+***Anarcho Claus is coming to town.***
 
 ---
 
-He sees you when you’re trying
+***He’s taking a risk,
 
-To trade what’s “good” for you
+***Flying in low,
 
-For all the stuff you <i>really</i> want.
+***Smuggling in toys
 
-He’ll run it in for you!
+***So the statists won’t know
 
-<i>So…</i>
+***Anarcho Claus is coming to town.
 
-Close up your door
+---
 
-But not very tight
+***He sees you when you’re trying
 
-The market will clear
+***To trade what’s “good” for you
 
-Late Christmas night.
+***For all the stuff you <i>really</i> want.
 
-Anarcho Claus is coming to town.***
+***He’ll run it in for you!
+
+***<i>So…</i>
+
+***Close up your door
+
+***But not very tight
+
+***The market will clear
+
+***Late Christmas night.
+
+***Anarcho Claus is coming to town.
 
