@@ -4,9 +4,9 @@ With ice-breathing dragons and the US Air Force in hot pursuit, Anarcho Claus sp
 
 Wicked and witty, The Legend of Anarcho Claus is the one Christmas gift you'll read to your children all year long.
 
-## *The Legend of Anarcho Claus*
+## The Legend of Anarcho Claus
 
-### by Samuel Edward Konkin III and Victor Koman
+### *by Samuel Edward Konkin III and Victor Koman*
 
 KoPubCo
 
