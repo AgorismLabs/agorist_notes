@@ -2,7 +2,7 @@ docs_dir: notes
 theme:
   name: gitbook
   custom_dir: .custom_theme/
-site_name: Notes
+site_name: Agorist Notes
 plugins: []
 nav:
   - 'index.md'
