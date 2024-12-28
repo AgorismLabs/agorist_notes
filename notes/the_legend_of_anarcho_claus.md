@@ -1,12 +1,19 @@
+## The Legend of Anarcho Claus
+### The Secret Story of Santa’s Rebel Son
+
+#### *by Samuel Edward Konkin III and Victor Koman*
+
 Little Janie White wants a chemistry set for Christmas, but her parents prohibit it. Tearfully waiting up until midnight for Santa Claus to appear so she can plead her case, Janie instead discovers an elf dressed in black on her hearth. He's Anarcho Claus, who sneaks out of Elf-Land on Christmas Eve in a sleek black sleigh piloted by C.B. – a very gruff polar bear – and led by Rudy the reindeer, whose black-light nose stealthily guides the way. Together, they bring all sorts of forbidden toys to non-coercive girls and boys.
 
 With ice-breathing dragons and the US Air Force in hot pursuit, Anarcho Claus spirits Janie away to the North Pole, where she learns the secret behind Santa's annual toy dumping and the reason for Anarcho's defiance.
 
 Wicked and witty, The Legend of Anarcho Claus is the one Christmas gift you'll read to your children all year long.
 
-## The Legend of Anarcho Claus
+![The Legend of Anarcho Claus](anarcho_claus.jpg "Anarcho Claus")
 
-### *by Samuel Edward Konkin III and Victor Koman*
+### The Legend of Anarcho Claus
+
+#### *by Samuel Edward Konkin III and Victor Koman*
 
 KoPubCo
 
@@ -415,11 +422,9 @@ Her parents ventured downstairs, drawn by the commotion, to find little Alexandr
 
 <big>The End</big>
 
-Anarcho Claus is Coming to Town
+#### Anarcho Claus is Coming to Town
 
-*by Samuel Edward Konkin III*
-
-(“Santa Claus is /coming to Town”)
+##### (“Santa Claus is Coming to Town”)
 
 ---
 
