@@ -9,3 +9,4 @@ markdown_extensions:
 nav:
   - 'Home': 'index.md'
   - 'Christmas': 'the_legend_of_anarcho_claus.md'
+  - 'Agora': 'an_agorist_primer.md'
