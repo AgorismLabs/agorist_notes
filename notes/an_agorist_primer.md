@@ -2736,7 +2736,7 @@ unfinished at the time of SEK3’s death. —VK_]. It
 will emphasize examples and practice, the theory
 being as much as already covered here.
 
-![An Agorist Primer](images/konkin.jpg "Samuel Edward Konkin III")
+![An Agorist Primer](images/an_agorist_primer.jpg "Samuel Edward Konkin III")
 
 Samuel Edward Konkin III
 July 8, 1947 — February 23, 2004
