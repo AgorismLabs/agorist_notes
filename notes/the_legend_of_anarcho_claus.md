@@ -9,7 +9,7 @@ With ice-breathing dragons and the US Air Force in hot pursuit, Anarcho Claus sp
 
 Wicked and witty, The Legend of Anarcho Claus is the one Christmas gift you'll read to your children all year long.
 
-![The Legend of Anarcho Claus](anarcho_claus.jpg "Anarcho Claus")
+![The Legend of Anarcho Claus](images/anarcho_claus.jpg "Anarcho Claus")
 
 ### The Legend of Anarcho Claus
 
@@ -19,15 +19,15 @@ KoPubCo
 
 _This book is dedicated with love and joy at Christmas to non-coercive boys & girls all around the myriad worlds_ 
 
-<i>“Suddenly there arose such a clatter …”</i>
+_“Suddenly there arose such a clatter …”_
 
 Alexandra Jane Virginia Bernadette Buttercup White awoke with a start. She realized that she had drifted off on the chesterfield in front of the crackling fireplace. She couldn’t have been asleep long for her cheeks were still streaked with long, wet tracks of tears. Janie remembered why she had been crying, and was about to begin again.
 
 Wait! Another sound. Up on the roof? Yes, she just barely heard a muffled voice.
 
-<i>“Cool it. Enough of the clatter of hooves from you eight tiny reindeer already. Rudy – keep a watch for patrols. Search with your ultraviolet vision if you have to.”</i>
+_“Cool it. Enough of the clatter of hooves from you eight tiny reindeer already. Rudy – keep a watch for patrols. Search with your ultraviolet vision if you have to.”_
 
-That didn’t sound like the white-bearded, red-suited fellow for whom she had been waiting. It was Christmas Eve and she had hoped to catch Santa and talk to him before her parents could change what she <i>really</i> asked for to what they insisted she was <i>supposed</i> to want.
+That didn’t sound like the white-bearded, red-suited fellow for whom she had been waiting. It was Christmas Eve and she had hoped to catch Santa and talk to him before her parents could change what she _really_ asked for to what they insisted she was _supposed_ to want.
 
 And what to her wondering eyes did appear? Well, one moment she was gazing into the crackling, dancing flames of the fireplace (trying to figure out how fire worked) and the next moment – blocking her view – a rotund, sardonic elf blinked into existence with audible POP!
 
@@ -47,7 +47,7 @@ This elf, though, was nothing like the little people who worked for Santa Claus 
 
 “Golly, Mr. Claus, are you helping out your father? Wait here – I’ll be back with a stocking.” In flurry of bedclothes, she ran upstairs into her room.
 
-It had to be somewhere, she though. Ordinary socks flew everywhere as she dug for prize. Finally, she found them in battered old cardboard box on which her father had written – in bold black Magic Marker – <i>EUROCENTRIC XMAS FRIVOLOUSNESS</i>.
+It had to be somewhere, she though. Ordinary socks flew everywhere as she dug for prize. Finally, she found them in battered old cardboard box on which her father had written – in bold black Magic Marker – _EUROCENTRIC XMAS FRIVOLOUSNESS_.
 
 She seized her red and white Christmas stocking and turned to go, then remembered one of the rules of the game and thoughtfully brought along her little brother’s green Christmas stocking as well.
 
@@ -71,7 +71,7 @@ Anarcho Claus snapped out of it as if no time had time passed. “You’re clean
 
 Janie felt as if she were getting away with something, so she felt compelled to ’fess up. “Well, there was the time when I pushed Bobby away from my construction set…”
 
-“No problemo, Janie. Your parents shoved him on you and told you to <i>share</i>!” He spat out the last as if it were the kind of word that would cause your mouth to get a bar of Lifebuoy soap shoved into it. “Now <i>that</i> was wicked. Nothing for them this Christmas.”
+“No problemo, Janie. Your parents shoved him on you and told you to _share_!” He spat out the last as if it were the kind of word that would cause your mouth to get a bar of Lifebuoy soap shoved into it. “Now _that_ was wicked. Nothing for them this Christmas.”
 
 “How do you know all that?” said Janie.
 
@@ -93,7 +93,7 @@ There was one big problem, though. She looked up at Anarcho with tears of joy an
 
 “Who says your parents should know? Kids have a right to privacy, just like other people. It’s wrong to say they don’t.” He dug around in his sack again.
 
-“You mean adults can be <i>wrong</i>?” As she spoke, she hid the chemistry set behind the china cabinet. Since his parents always ordered takeout, she figured it would be safe there for a while.
+“You mean adults can be _wrong_?” As she spoke, she hid the chemistry set behind the china cabinet. Since his parents always ordered takeout, she figured it would be safe there for a while.
 
 “Have you seen the world around you, Janie? Adults are wrong all the time. Take me, for instance. If you asked your parents if I exist, do you think you’d get the right answer?” He straightened up and turned around, arms out. Janie gazed at his ebony deerskin boots, jet-hued slacks, midnight jacket with black sable trim and obsidian buttons. “Have you ever heard of me before?”
 
@@ -101,9 +101,9 @@ Janie shook her head.
 
 “Your friends never mentioned jolly old Anarcho Claus, the elf in black?”
 
-She shook her head emphatically. “No one’s <i>ever</i> told me about you.”
+She shook her head emphatically. “No one’s _ever_ told me about you.”
 
-The elf smiled. “That's the secret, kid. I've been smuggling forbidden toys to hard-core girls and boys since I read Benjamin Tucker’s <i>Liberty</i> in the 1880s. And no one has ever ratted me out.”
+The elf smiled. “That's the secret, kid. I've been smuggling forbidden toys to hard-core girls and boys since I read Benjamin Tucker’s _Liberty_ in the 1880s. And no one has ever ratted me out.”
 
 “That’s why nobody’s heard of you!”
 
@@ -115,19 +115,19 @@ Anarcho Claus lit his pipe and blew a smoke ring in the shape of Christmas wreat
 
 Jennie shook her head from side to side. “Oh, golly, Anarcho Claus, I’d never help anyone make War! My parents don’t believe in it.”
 
-The elf frowned, took another puff from his pipe, and sighed. “That’s no reason, Janie. You do something because you know it’s <i>right</i>, not because your parents tell you so. Or even because <i>I</i> tell you. You have to think for yourself.”
+The elf frowned, took another puff from his pipe, and sighed. “That’s no reason, Janie. You do something because you know it’s _right_, not because your parents tell you so. Or even because _I_ tell you. You have to think for yourself.”
 
 He reached once more into his black canvas sack and pulled out a surprisingly realistic-looking model Thompson submachine gun. He handed it to Janie. “And this is for Bobby.”
 
 “Wow!” Janie jumped to take the cool blue steel barrel and mahogany grips in her hands. She eyed it with a mixture of excitement and concern. “Mom and Dad are pacifists. They’d kill him if they found him with a gun!”
 
-“Yeah, and there’s no inconsistency in <i>that</i>,” the younger Claus muttered under his breath.
+“Yeah, and there’s no inconsistency in _that_,” the younger Claus muttered under his breath.
 
 Janie, perplexed, asked, “I though you didn’t believe in war? So how come you’re giving Bobby a gift that encourages his fascination with guns?”
 
 A faint, crackling voice interrupted them, swirling around Anarcho Claus like an auditory vapor.
 
-<i>“Breaker seven-seven for the one A-C!”</i>
+_“Breaker seven-seven for the one A-C!”_
 
 Ignoring the deep, spectral voice, Anorcho Claus stared down at Janie. “Good one, Janie. Zing! I’ll bet you sound just like your mother!” He paused, then sighed. “Actually, it’s a fair question, if not very well put. Let me ask you one, Janie. Do you think you should decide for your brother whether or not he should use his new gun to practice for war?”
 
@@ -135,19 +135,19 @@ Ignoring the deep, spectral voice, Anorcho Claus stared down at Janie. “Good o
 
 “And should he decide whether or not you should have the chemistry set?”
 
-“<i>No!</i>” shouted Janie. Shocked at the ferocity of her response, she put her hand over her mouth. Did she wake her parents?
+“_No!_” shouted Janie. Shocked at the ferocity of her response, she put her hand over her mouth. Did she wake her parents?
 
 Again the faint, crackling voice pierced the silence. This time, Anarcho Claus answered. “I read you, C.B. Double score down here. How’s up top?”
 
 Janie leaned close to Anarcho Claus to hear the voice. It sounded deep and resonant.
 
-<i>“Another sleigh sighted by Black Nose on Ultra-Vision. The Redcoat is coming!”</i>
+_“Another sleigh sighted by Black Nose on Ultra-Vision. The Redcoat is coming!”_
 
 “10-4. C.B. Pull me up and out. Over.”
 
 “Who’s C.B., Anarcho Claus?” asked Janie, tugging on his sleeve…
 
-<big>ZWINK!</big>
+ **ZWINK!**
 
 She was standing in the snow on her roof! And perched precariously on the peak of the roof stood nine reindeer, a matte-black sleigh full of toys, and a white polar bear sitting in the sleigh holding some kind of radio set in its paws..
 
@@ -191,7 +191,7 @@ Rudy snorted, turned his nose up, and flew a few hundred yards away.
 
 Janie’s face filled with contrition. “I’m so sorry! I thought ‘Rudy’ was short for ‘Rudolph’.”
 
-Anarcho Claus shook his head. “They were born twins. Rudolph… and <i>Rudyard</i>. He prefers to be called Rudy.”
+Anarcho Claus shook his head. “They were born twins. Rudolph… and _Rudyard_. He prefers to be called Rudy.”
 
 
 “What’s so bad if Santa… I mean Red Coat catches us, Anarcho Claus?” Janie finally trusted the younger Claus not to leave her mystified for long.
@@ -200,7 +200,7 @@ As the sleigh climbed higher and higher into the midnight sky, Anarcho Claus tap
 
 “Let’s begin with the Elvish Economy of the North Pole,” he said. “You see, objects of human amusement are a waste product in our industry, damaging to our ecology.”
 
-“Objects of …” wondered Janie. “Do you mean <i>toys</i>?”
+“Objects of …” wondered Janie. “Do you mean _toys_?”
 
 “Sure. Elves have no need for toys. They shoot out of the matter converters we use in our heavy industry, to power the North Pole, and to shield ourselves from human detection.”
 
@@ -208,7 +208,7 @@ As the sleigh climbed higher and higher into the midnight sky, Anarcho Claus tap
 
 “You’ll find out. Anyway, toys used to litter the snow just south of the North Pole.”
 
-C.B. snorted merrily and interjected, “Of course, <i>everything</i> is south of the North Pole!” He laughed and laughed in that bear-growl way of his. Anarcho Claus just rolled his eyes.
+C.B. snorted merrily and interjected, “Of course, _everything_ is south of the North Pole!” He laughed and laughed in that bear-growl way of his. Anarcho Claus just rolled his eyes.
 
 “So,” the elf continued, pulling a tobacco pouch from his jacket pocket to refill his pipe, “Red Coat tried to clean up the mess once, and hauled a load of toys way down south – and dumped them in the human zone. He quickly discovered that girls and boys loved stuff and – even better – parents loved the way they could get kids to behave by threatening or temping them with the Naughty or Nice lists. So he formed this plan: the old geezer flies by, jettisons our waste on you, and gets you kids to toe his line, follow his altruistic policies, and serve the parental establishment he’s covertly backing. Simple imperialism.”
 
@@ -224,13 +224,13 @@ Rudy, the black-light-nosed reindeer, zoomed toward the sleigh from up high, cha
 
 And that’s how Janie got to see the Other Side of the North Pole.
 
-[“]Damn it, A-C, I think we tripped an alarm,” roared the polar bear, studying a gauge with a needle swinging over far to the right, into a red zone. “I’ll tell Rudy.” He grabbed the microphone in his big bear paw and made the same sort of snorting, whinnying sounds Janie had heard from Rudy.
+“Damn it, A-C, I think we tripped an alarm,” roared the polar bear, studying a gauge with a needle swinging over far to the right, into a red zone. “I’ll tell Rudy.” He grabbed the microphone in his big bear paw and made the same sort of snorting, whinnying sounds Janie had heard from Rudy.
 
 “And that’s Northern Canada!” Anarcho Claus pointed to the tundra below, lit up in the moonlight like a vast blue and white quilt of snow and brush. “Now comes the tricky part. We have to cross the dimensional barrier to Elf-Land.”
 
 “You mean,” Janie said, blinking her eyes, “we’re not really going to the North Pole?”
 
-“Not <i>your</i> North Pole, kid.” Anarcho Claus chuckled, his red cheeks flushed with amusement. “Not even Elves can live on <i>that</i> block of martini-chillers. But there’s a neighboring dimension where we Elves have altered the environment ant and turned the poles into heavy-industrial areas, keeping pollution far away from the fertile, agricultural areas closer to the equators. Say–” he squinted suspiciously at the wondrous-eyed child, “You <i>did</i> say you read Science Fiction, didn’t you?”
+“Not _your_ North Pole, kid.” Anarcho Claus chuckled, his red cheeks flushed with amusement. “Not even Elves can live on _that_ block of martini-chillers. But there’s a neighboring dimension where we Elves have altered the environment ant and turned the poles into heavy-industrial areas, keeping pollution far away from the fertile, agricultural areas closer to the equators. Say–” he squinted suspiciously at the wondrous-eyed child, “You _did_ say you read Science Fiction, didn’t you?”
 
 “Oh, yes,” Janie said with fervor.
 
@@ -248,7 +248,7 @@ Janie snuggled between the furry bear and the fur-clad elf named Anarcho and gre
 
 But C.B. simply snorted a sort of laugh and the rotund elf smiled. “Who wants dumb animals? Genetic engineering, of course. Why waste worthwhile life-forms by leaving them non-sentient? Most of animals in Elf-Land can speak and reason.” He leaned over to her. She smelled cinnamon spice and a wonderful burly smoke from his pipe. “Our failures, you’d be interested to know, are given away by my dad as pets.”
 
-“And <i>our</i> toys,” Janie said, beginning to understand, “are <i>your</i> reject from trying to build something even better?”
+“And _our_ toys,” Janie said, beginning to understand, “are _your_ reject from trying to build something even better?”
 
 “Something like that, kid” Anarcho Claus answered. “Our robots use the matter converters to manufacture a lot of stuff in the course of our research and development programs, but not all of it is up to our standards of profitability. So Red Coat figured that he could dump the waste products on kids in exchange for power over you.”
 
@@ -262,17 +262,17 @@ The scouting reindeer had flown ahead but now rushed back, snow swirling in his 
 
 Janie watched the moonlit specks grow and grow as they approached, rapidly becoming long and thin with wide, large, bat-like wings. But they weren’t black like bats. These creatures were as white as the snow below them.
 
-“Are they <i>dragons</i>?” she asked with awe.
+“Are they _dragons_?” she asked with awe.
 
 “They ain’t butterflies, kid” The elf snapped the reins smartly. The reindeer flew faster, shoving them into their seats. Rudy closed in on to the sleigh, but the dragons were gaining on him.
 
 Janie gasped in fear. “Will they burn us?”
 
-“Spooner’s stamps!” Anarcho cried out. “Learn your D&D. <i>White</i> dragons breathe <i>cold</i>! They’ll put us in suspended animation and deliver us to old Red Coat’s cops!”
+“Spooner’s stamps!” Anarcho cried out. “Learn your D&D. _White_ dragons breathe _cold_! They’ll put us in suspended animation and deliver us to old Red Coat’s cops!”
 
-Janie grew anxious. What would her erstwhile hero, a <i>saint</i> no less, do to her when caught in the company of his not-so-juvenile but no-less-delinquent son?
+Janie grew anxious. What would her erstwhile hero, a _saint_ no less, do to her when caught in the company of his not-so-juvenile but no-less-delinquent son?
 
-“C.B., are we within range of the–”
+“C.B., are we within range of the.”
 
 C.B.’s deep-throated reply cut Anarcho Clause off. “I’m watching and will try it as soon as we hit maximum range. 10-4?”
 
@@ -282,9 +282,9 @@ The dragons roared. Their frosty, fearsome breath blew toward the sleigh like fi
 
 “I’ll try to shield you,” Anarcho Claus said, wrapping his coat around Janie.
 
-Janie muttered “I believe y–”
+Janie muttered “I believe y”
 
-“<i>Now!</i>” boomed C.B.
+“_Now!_” boomed C.B.
 
 The world rippled around them as is they had pushed through clear Jell-O. Janie found them parked in a large warehouse filled with toys, models, books, games, and all sorts of wonderful things.
 
@@ -308,9 +308,9 @@ Anarcho Claus tended to his reindeer, with special pats and rub-down for his bla
 
 Janie watched in wonderment as Claus worked swiftly, all the while instructing her in joyous tone. “You see, Janie, here in Elf-Land we never developed a State, which is both good and bad.”
 
-“Gosh, you mean you live in anarchy, Mr. Claus?” Then it became clear to her. “Mr.… <i>Anarcho Claus</i>!”
+“Gosh, you mean you live in anarchy, Mr. Claus?” Then it became clear to her. “Mr.… _Anarcho Claus_!”
 
-“You’re catching on, kid. Yeah, that’s the good part, although nobody here here seems to know it. After all,” he said with a wink, “if people don’t know what <i>government</i> is, how can they come up with the notion of <i>anarchy</i>?”
+“You’re catching on, kid. Yeah, that’s the good part, although nobody here here seems to know it. After all,” he said with a wink, “if people don’t know what _government_ is, how can they come up with the notion of _anarchy_?”
 
 Janie nodded, agreeing to the logic of this observation.
 
@@ -328,7 +328,7 @@ C.B. squeezed back into the sleigh and began fiddling with control panel.
 
 “Sure! I’ve reprinted some Tucker and Murray Rothbard and Voltairine de Cleyre and Ludwig von Mises for kids. Good stuff. Don’t believe your parents when they tell you you’re too young to understand something. They’re just admitting they’re too lazy to explain it to you.”
 
-He paused and pulled his pipe from his pouch and lit it up. “But I digress. When I first started to read that stuff, I knew what I wanted to do for a couple of centuries of my life. I figured I would undo some of the damage Dad has caused, and eventually enough kids would be freed of thinking in terms of their own repression that they would overthrow the system and maybe I could get some real, worthwhile trading going on between our dimensions. Besides,” his voice grew somber for the first time, “my old man’s been importing some of the bad ideas from <i>your</i> world, like regulation and taxes ans police. I’m doing this for <i>my</i> people as well.”
+He paused and pulled his pipe from his pouch and lit it up. “But I digress. When I first started to read that stuff, I knew what I wanted to do for a couple of centuries of my life. I figured I would undo some of the damage Dad has caused, and eventually enough kids would be freed of thinking in terms of their own repression that they would overthrow the system and maybe I could get some real, worthwhile trading going on between our dimensions. Besides,” his voice grew somber for the first time, “my old man’s been importing some of the bad ideas from _your_ world, like regulation and taxes ans police. I’m doing this for _my_ people as well.”
 
 “Gosh, you’re wonderful,” Janie said, hugging the elf as hard as she could.
 
@@ -340,7 +340,7 @@ He paused and pulled his pipe from his pouch and lit it up. “But I digress. Wh
 
 C.B.’s paw hovered over the switch Janie had seen him throw to bring them to this place. Rudyard, hooves clacking on the polished warehouse floor, returned to the front of reindeer team, still unfettered and free-flying.
 
-<big>SPROINK!</big>
+**SPROINK!**
 
 They were out over elvish city again, flying south, back to the world of Man.
 
@@ -356,7 +356,7 @@ Once again, they passed through the dimension barrier with a waver and a shimmer
 
 “Hey! A.C. – kid on board.”
 
-Jane giggled. “Tell the son-of-a-pooh-head that he’s having a close encounter of the <i>wrong</i> kind.”
+Jane giggled. “Tell the son-of-a-pooh-head that he’s having a close encounter of the _wrong_ kind.”
 
 “Not bad,” said Anarcho Claus with grin. “Thanks, kid. If we lose our sense of humor, we’ll soon be just like them.”
 
@@ -374,7 +374,7 @@ As Janie’s town came into view, and then the roof of her very own home, Anarch
 
 He leapt from the sleigh and reached back in to lift her out. C.B. stayed where he sat because polar bears do not like jumping in and out of things for no reason. He simply waved at her with his big furry paw, then lowered it over a switch. Anarcho Claus held onto her and hugged, laughing jovially. “Merry Christmas, Janie.”
 
-<big>GLINK!</big>
+**GLINK!**
 
 And in a shimmering instant they were back in her living room. “Get some sleep, kid,” he said, putting her down on the couch, “and maybe I’ll catch you next year… if you aren’t already too busy with revolution!” With that – and PLOINK! – he vanished. All that remained was the scent of his pipe and a faint aroma of cinnamon and evergreen.
 
@@ -386,7 +386,7 @@ Stunned, she searched the living room and elsewhere around and under Christmas t
 
 Heart racing, blood pounding, she seized the doll, stomped to the fireplace, and shouted up the chimney.
 
-<i>“Damn you, Santa!”</i>
+_“Damn you, Santa!”_
 
 It was the first time in her life she had uttered such words. But she meant them. Running to the bay window, she searched for the ebony sleigh and saw it perched on the roof of the little Andy Thornton’s house down the street.
 
@@ -402,25 +402,17 @@ With something inside them!
 
 Janie slowly approached her red-and white stocking. A flat, square shape lay wedged halfway down. She snaked her hand inside it and pulled out a note. The paper was black, and the pen strokes looked like liquid gold. Despite rather atrocious penmanship, the words of Anarcho Claus wrote made her heart race with excitement.
 
-<cite>
-
 Don’t worry, Janie. Old Red Coat can steal my gifts, but he can’t steal the knowledge you gained tonight. Use it to free yourself and all those who deserve to be free.
 
-</cite>
-
 She smiled with pride, then glanced at the bottom of the note.
-
-<cite>
 
 P.S. – You didn’t think I’d let him get away with theft, did you? There’s another chemistry set and Tommy gun in the garage. Lassez Faire!
 
 –Your friendly Neighbourhood Anarcho Claus
 
-</cite>
-
 Her parents ventured downstairs, drawn by the commotion, to find little Alexandra Jane Virginia Bernadette Buttercup White rolling on the floor laughing, tears of joy streaming down her cheeks.
 
-<big>The End</big>
+#### The End!
 
 #### Anarcho Claus is Coming to Town
 
@@ -456,11 +448,11 @@ He sees you when you’re trying
 
 To trade what’s “good” for you
 
-For all the stuff you <i>really</i> want.
+For all the stuff you _really_ want.
 
 He’ll run it in for you!
 
-<i>So…</i>
+_So…_
 
 Close up your door
 
