@@ -4,7 +4,7 @@
 
 **Author:** [Author Name/Pseudonym]
 
-**Draft Version:** 0.2.0
+**Draft Version:** 0.2.1
 
 **Date:** January 2026
 
@@ -160,9 +160,9 @@ It will feel like anxiety. But it isn't anxiety. **It’s just the feeling of be
 
 Once you are sober, you realize that "Safety" was just a lie to keep you poor. But we are not reckless. We are mathematicians.
 
-**The Counter-Economic Payoff = (Profit - Loss)**
+**The Agorist Payoff = Profit - (Penalty × Probability of Arrest)**
 
-The Statist relies on fear to make you overestimate the *Probability of Arrest*. They want you to believe the eye of Sauron is always watching. It isn't.
+The Statist relies on fear to make you overestimate the *Probability of Arrest*. They want you to believe the eye of Sauron is always watching. It isn't. They are understaffed, overwhelmed, and looking at the wrong data.
 
 ***
 
@@ -191,11 +191,11 @@ The goal is to become the "Gray Man." The Gray Man is the person you sat next to
 ### **The Cost of Silence**
 
 I will not lie to you: This rebellion is lonely.
-Tucker’s world of cocktail parties is social. It is warm.
+Tucker’s world of cocktail parties is social. It is warm. It is designed to make you feel part of a club.
 The Gray Man has no club.
 
 When you refuse to signal your virtue, you lose the applause of the crowd.
-The "Cocaine" mindset is a solitary high. You are trading community validation for sovereign power.
+The "Cocaine" mindset is a solitary high. You are trading community validation for sovereign power. It is a cold trade. But in a burning city, the cold is the only thing that keeps you alive.
 
 ***
 
@@ -258,6 +258,7 @@ The new smuggler moves the *design* across the border and manufactures the good 
 
 * **Logistics:** Don't import the gun; import the G-code and print the receiver.
 * **Comms:** Don't import the censorship-resistant phone; import the LoRa mesh protocol and flash it onto cheap, generic hardware.
+* **Bio:** Don't import the medicine; import the chemical precursors and the lab equipment to synthesize the peptides locally.
 
 ### **The Ultimate Cargo (You)**
 
