@@ -3,9 +3,7 @@
 ## A Guide to High-Velocity Liberty
 
 **Author:** [Author Name/Pseudonym]
-
-**Draft Version:** 0.2.1
-
+**Draft Version:** 0.3.3
 **Date:** January 2026
 
 ---
@@ -14,15 +12,15 @@
 
 ### **Table of Contents**
 
-1. **Introduction:** Reality Knows No Moderation
-2. **Chapter 1:** The Indigestion of the State
-3. **Chapter 2:** The 5:00 AM Verification
-4. **Chapter 3:** Safety is a Sedative (The Risk Calculus)
-5. **Chapter 4:** The Gray Man in the Neon City
-6. **Chapter 5:** Voter Fraud in the Panopticon
-7. **Chapter 6:** The Smuggler's Algorithm (Bits, Atoms, & Minds)
-8. **Chapter 7:** Fire Suppression & Agorist Condensations
-9. **Epilogue:** Clear the Table
+1.  **Introduction:** Reality Knows No Moderation
+2.  **Chapter 1:** The Indigestion of the State
+3.  **Chapter 2:** The 5:00 AM Verification
+4.  **Chapter 3:** Safety is a Sedative (The Risk Calculus)
+5.  **Chapter 4:** The Gray Man in the Neon City
+6.  **Chapter 5:** Voter Fraud in the Panopticon (Money & Privacy)
+7.  **Chapter 6:** The Smuggler's Algorithm (Bits, Atoms, & Minds)
+8.  **Chapter 7:** Fire Suppression & Agorist Condensations
+9.  **Epilogue:** Clear the Table
 10. **Appendix:** The Arsenal
 
 ---
@@ -197,6 +195,14 @@ The Gray Man has no club.
 When you refuse to signal your virtue, you lose the applause of the crowd.
 The "Cocaine" mindset is a solitary high. You are trading community validation for sovereign power. It is a cold trade. But in a burning city, the cold is the only thing that keeps you alive.
 
+### **[BLACK BOX] The Comms Hierarchy**
+
+> Not all chats are created equal. You need a tiered defense.
+>
+> 1.  **Tier 1 (Warm / Low Risk): Signal.** Encrypted, but requires a phone number. Use for family and non-sensitive friends.
+> 2.  **Tier 2 (Grey / Medium Risk): Telegram Secret Chats.** Convenience for semi-public coordination, but metadata is centrally stored by Telegram. Only use "Secret Chat" mode for E2EE.
+> 3.  **Tier 3 (Cold / High Risk): SimpleX Chat.** No identifiers. No phone numbers. Traffic routed via Tor. This is for the network.
+
 ***
 
 > **MISSION PARAMETERS: CH 4**
@@ -207,40 +213,52 @@ The "Cocaine" mindset is a solitary high. You are trading community validation f
 
 ***
 
-## **Chapter 5: Voter Fraud in the Panopticon**
+## **Chapter 5: Voter Fraud in the Panopticon (Money & Privacy)**
 
 They tell you to "vote with your wallet." But in the modern financial system, every time you "vote" with your wallet, you are also handing over your ID, your GPS coordinates, and a list of your associates.
 
-When you use a credit card, you are not engaging in trade. You are engaging in surveillance.
+### **The Stablecoin Trap**
 
-### **Voter Fraud**
+Not all digital dollars are created equal.
+**USDC and USDT are State Tools**. [cite_start]They are fiat-backed tokens held in regulated bank accounts[cite: 60]. [cite_start]The issuer has a "blacklist" function and is legally obligated to freeze funds when ordered by authorities[cite: 62, 63]. [cite_start]Reliance on these assets maintains the "umbilical cord" to the State[cite: 65].
 
-If every transaction is a vote, then **privacy is voter fraud.**
+The Agorist demands **Sovereign Money**.
+* **Liquity (LUSD):** Backed only by ETH, with immutable code and no admin keys.
+* **RAI:** A non-pegged, floating stable asset that acts as its own central bank.
 
-By encrypting the transaction, you are hiding your ballot from the central authority. You are refusing to let them count, categorize, or tax your intent.
+Use LUSD for salaries. Use USDC only for exiting.
 
-* Mixing is not money laundering; it is ballot stuffing for liberty.
-* Self-Custody is not hoarding; it is seceding from the voting district.
-
-### **[BLACK BOX] The Shielded Pool (Railgun / Tornado)**
+### **[BLACK BOX] The Shielded Pool (Tornado / Railgun)**
 
 > How do you interact with DeFi without exposing your entire history? You use a **Shielded Pool**.
 >
-> 1. **Shield:** You deposit ETH into the smart contract (the pool).
-> 2. **Transact:** Inside the pool, you move funds using Zero-Knowledge (ZK) proofs. The observer sees *that* a transaction happened, but not *who* did it or *what* it was.
-> 3. **Unshield:** You withdraw to a fresh address. The link to your past is mathematically severed.
+> 1.  **Shield:** You deposit ETH into the smart contract (the pool).
+> 2.  **Transact:** Inside the pool, you move funds using Zero-Knowledge (ZK) proofs. The observer sees *that* a transaction happened, but not *who* did it or *what* it was.
+> 3.  **Unshield:** You withdraw to a fresh address. The link to your past is mathematically severed.
+>
+> **The Tools:**
+> * **Tornado Cash:** The immutable standard for breaking links. It cannot be shut down, only sanctioned.
+> * **Railgun:** For shielding DeFi interactions (swapping, lending) without leaving the pool.
+> * **Kohaku:** The 2025 framework integrating stealth addresses natively into wallets.
 >
 > ![Shielded Pool diagram](lunch_shield1.jpeg)
 >
 > This is how we shatter the glass house. We keep the verification, but we regain our walls.
 
+### **[BLACK BOX] The Airlock (Atomic Swaps)**
+
+> Sometimes, a shield isn't enough. You need to leave the building entirely.
+> **Atomic Swaps** allow you to trade Ethereum-based assets for **Monero (XMR)** without using a centralized exchange.
+> * **Trustless:** The swap happens via smart contracts (HTLCs). If the other party doesn't pay, you get your money back automatically.
+> * **The Result:** You hold LUSD for stability, but when you need absolute privacy, you swap into Monero. It is the perfect airlock between the "White Market" and the "Black Market."
+
 ***
 
 > **MISSION PARAMETERS: CH 5**
 >
-> * **Wallet Hygiene:** Create a brand new wallet. Fund it only through a Shielded Pool.
-> * **The Burn:** Use this wallet for one specific category of purchase. Never link it to your "main" identity (ENS).
-> * **Education:** Read the docs for **Railgun** or **Aztec**. Understand the math of your own defense.
+> * **Wallet Hygiene:** Create a brand new wallet. Fund it only through a Shielded Pool (Tornado/Railgun).
+> * **The Swap:** Convert your emergency fund from USDC (seizable) to LUSD or RAI (unstoppable).
+> * **Education:** Read the docs for **Railgun** or **BasicSwap**. Understand the math of your own defense.
 
 ***
 
@@ -296,33 +314,34 @@ This is a fantasy.
 
 ### **The Controlled Burn**
 
-In forestry, there is a concept called **fire suppression**. For decades, rangers stopped every small fire immediately. They thought they were saving the forest.
-In reality, they were just piling up dead wood. They were creating a fuel load so massive that when the fire finally came, it destroyed everything.
-
 The State is the ultimate fire suppressor. They suppress recessions with printing. They suppress bankruptcy with bailouts.
 To ask for a "soft landing" now is delusional. The fuel is already there. The match has already been struck.
 
 ### **Agorist Condensations**
 
-We do not want the fire to destroy us. We want to build the fireproof shelter.
-We are looking for **Agorist Condensations**.
+We do not want the fire to destroy us. We want to build the fireproof shelter. We are looking for **Agorist Condensations**: pockets of the counter-economy that become dense enough to replace state services.
 
-Imagine the Counter-Economy growing slowly underground. Eventually, these pockets of freedom "condense."
+* **The Eyes of the Agora (DePIN):** We don't need police patrols; we need **DePIN** (Decentralized Physical Infrastructure). [cite_start]A network of encrypted cameras (like Natix) monitors the neighborhood[cite: 209]. [cite_start]Access is granted only to paid security firms, not the state[cite: 214].
+* **Decentralized Justice:** Disputes are not solved in court, but via **Kleros**, where anonymous jurors vote on the evidence.
 
-* The neighborhood mesh network becomes more reliable than the ISP.
-* The crypto-clearinghouse becomes more liquid than the local bank.
+### **[BLACK BOX] The Signal Fire (Nostr)**
 
-### **[BLACK BOX] The Web of Trust**
-
-> You are asking: "If I am supposed to be a Gray Man, how do I find these communities?"
-> You do not find them on Facebook. You find them through **Key Signing**.
-> In the Agorist underground, trust is transitive.
+> Where do we find these condensations? Not on Facebook.
+> We use **Nostr** (Notes and Other Stuff Transmitted by Relays).
+> * **Unstoppable:** Your identity is a cryptographic key, not a profile on a server. You cannot be banned.
+> * **Marketplace (NIP-15):** A decentralized protocol for buying and selling goods. [cite_start]It's an unstoppable "Silk Road" made of text notes[cite: 366].
 >
-> * I trust Alice.
-> * Alice trusts Bob.
-> * Therefore, I will trade with Bob, even though I don't know his real name.
->
-> We do not build communities based on geography (neighbors). We build communities based on cryptography (keys).
+> Nostr is the operating system of the Agorist condensation.
+
+### **[BLACK BOX] The Refund Bonus (Dominant Assurance Contracts)**
+
+> How do we fund the roads and the security without taxes?
+> The answer is the **Dominant Assurance Contract (DAC)**.
+> An entrepreneur says: "I will pave the road if we raise 10 ETH. If we *don't* raise 10 ETH, I will refund everyone **plus a bonus**".
+> This creates a dominant strategy to contribute. You either get the road (Success) or you make a profit (Failure).
+> Protocols like **Juicebox** automate this. We don't need coercion to fund public goods; we just need better game theory.
+
+
 
 ***
 
@@ -359,27 +378,41 @@ Do not ask for permission to leave the table. Do not wait for the check. We aren
 
 *Do not trust this list. Verify the code yourself.*
 
-**Class 1: Privacy Infrastructure (Ethereum)**
+**Class 1: Sovereign Money**
 
-* **Tornado Cash:** The immutable mixer. Use with caution; check local compliance risks (or don't).
+* **Liquity (LUSD):** Immutable, ETH-backed stablecoin. No governance.
+* **RAI:** Non-pegged, control-theory asset.
+* **Monero (XMR):** The standard for absolute privacy (via Atomic Swaps).
+
+**Class 2: Privacy Infrastructure**
+
+* **Tor:** The onion router. Still the foundational layer of IP obfuscation.
+* **Tornado Cash:** The immutable mixer. Use for breaking links on Ethereum.
 * **Railgun:** Smart contract system for private DeFi interactions (Shielded Pools).
-* **Aztec:** Programmable privacy layer (ZK-Rollup) for complex applications.
+* **Kohaku:** The standard for stealth addresses and compliance proofs.
+* **GnuPG:** The universal standard for encryption (PGP). Verify signatures.
 
-**Class 2: Cognition (AI)**
+**Class 3: The Network (Comms)**
+
+* **Signal:** E2EE comms for "warm" contacts (requires phone number).
+* **Telegram Secret Chats:** Convenience for "grey" coordination (beware metadata).
+* **SimpleX Chat:** Metadata-free comms for the "cold" network (No IDs).
+* **Nostr:** Censorship-resistant social & market layer (NIP-15).
+
+**Class 4: Operating Systems**
+
+* **Linux:** The base layer of sovereignty. (Debian/Qubes/Tails).
+* **GrapheneOS:** The only mobile OS for the high-velocity individual. De-Googled Android.
+
+**Class 5: Cognition (AI)**
 
 * **Ollama / LM Studio:** Local LLM runners.
 * **Llama 3 / Mistral:** Open-weights models.
 
-**Class 3: The Network**
-
-* **Signal:** Encrypted comms. Set disappearing messages to 24h.
-* **Tor:** The onion router. Still the king of IP obfuscation.
-* **GrapheneOS:** Mobile operating system that removes Google services.
-
-**Class 4: Hardware**
+**Class 6: Hardware**
 
 * **Dappnode / Intel NUC:** Hardware for running your consensus client.
-* **Trezor / GridPlus:** Hardware wallets (verify firmware integrity).
+* **Trezor / GridPlus:** Hardware wallets.
 * **Faraday Bag:** For the phone when you need silence.
 
 ![Back cover](lunch_back1.jpeg)
