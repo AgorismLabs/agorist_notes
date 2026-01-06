@@ -3,7 +3,7 @@
 ## A Guide to High-Velocity Liberty
 
 **Author:** [Author Name/Pseudonym]
-**Draft Version:** 0.3.3
+**Draft Version:** 0.4.0
 **Date:** January 2026
 
 ---
@@ -130,7 +130,7 @@ It is better than caffeine. It is the raw, uncut stimulant of knowing that you a
 > **MISSION PARAMETERS: CH 2**
 >
 > * **Stop Asking:** Stop checking the price of ETH on a centralized exchange app.
-> * **Get Hardware:** Buy a 2TB NVMe SSD. This is the ammunition for the information war.
+> * **Get Hardware:** Buy a 2TB NVMe SSD or a pre-configured **Start9** server. This is the ammunition for the information war.
 > * **Sync:** Download a consensus client (Lighthouse, Prysm, Teku) and sync the chain. Watch the logs. Feel the heartbeat.
 
 ***
@@ -161,6 +161,13 @@ Once you are sober, you realize that "Safety" was just a lie to keep you poor. B
 **The Agorist Payoff = Profit - (Penalty × Probability of Arrest)**
 
 The Statist relies on fear to make you overestimate the *Probability of Arrest*. They want you to believe the eye of Sauron is always watching. It isn't. They are understaffed, overwhelmed, and looking at the wrong data.
+
+### **[BLACK BOX] The Wrench Attack Defense**
+
+> Cryptography cannot prevent physical violence.  If an attacker forces you to unlock your wallet, the funds are lost.
+> The defense is **Smart Accounts** (ERC-4337).
+> * **Social Recovery:** Require 3-of-5 signatures from trusted "Guardians" to move large funds.
+> * **Panic Button:** If under duress, trigger a function that locks the wallet for 7 days. This destroys the incentive for kidnapping because the attacker cannot get the funds immediately.
 
 ***
 
@@ -220,7 +227,7 @@ They tell you to "vote with your wallet." But in the modern financial system, ev
 ### **The Stablecoin Trap**
 
 Not all digital dollars are created equal.
-**USDC and USDT are State Tools**. [cite_start]They are fiat-backed tokens held in regulated bank accounts[cite: 60]. [cite_start]The issuer has a "blacklist" function and is legally obligated to freeze funds when ordered by authorities[cite: 62, 63]. [cite_start]Reliance on these assets maintains the "umbilical cord" to the State[cite: 65].
+**USDC and USDT are State Tools**.  They are fiat-backed tokens held in regulated bank accounts. The issuer has a "blacklist" function and is legally obligated to freeze funds when ordered by authorities.  Reliance on these assets maintains the "umbilical cord" to the State.
 
 The Agorist demands **Sovereign Money**.
 * **Liquity (LUSD):** Backed only by ETH, with immutable code and no admin keys.
@@ -275,7 +282,7 @@ The new smuggler moves the *design* across the border and manufactures the good 
 ![Distributed Factory diagram](lunch_shield2.jpeg)
 
 * **Logistics:** Don't import the gun; import the G-code and print the receiver.
-* **Comms:** Don't import the censorship-resistant phone; import the LoRa mesh protocol and flash it onto cheap, generic hardware.
+* **Comms:** Don't import the censorship-resistant phone; import **Meshtastic** radios. These create an off-grid mesh network using LoRa. You can even air-gap Bitcoin transactions by sending raw hex data over the mesh.
 * **Bio:** Don't import the medicine; import the chemical precursors and the lab equipment to synthesize the peptides locally.
 
 ### **The Ultimate Cargo (You)**
@@ -321,15 +328,16 @@ To ask for a "soft landing" now is delusional. The fuel is already there. The ma
 
 We do not want the fire to destroy us. We want to build the fireproof shelter. We are looking for **Agorist Condensations**: pockets of the counter-economy that become dense enough to replace state services.
 
-* **The Eyes of the Agora (DePIN):** We don't need police patrols; we need **DePIN** (Decentralized Physical Infrastructure). [cite_start]A network of encrypted cameras (like Natix) monitors the neighborhood[cite: 209]. [cite_start]Access is granted only to paid security firms, not the state[cite: 214].
+* **The Eyes of the Agora (DePIN):** We don't need police patrols; we need **DePIN** (Decentralized Physical Infrastructure). A network of encrypted cameras (like Natix) monitors the neighborhood. Access is granted only to paid security firms, not the state.
 * **Decentralized Justice:** Disputes are not solved in court, but via **Kleros**, where anonymous jurors vote on the evidence.
+* **Risk Pools:** How do we handle failure? We use **Nexus Mutual** to create "Neighborhood Risk Pools". Residents pay premiums, and if a verified theft occurs, the pool pays the claim.
 
 ### **[BLACK BOX] The Signal Fire (Nostr)**
 
 > Where do we find these condensations? Not on Facebook.
 > We use **Nostr** (Notes and Other Stuff Transmitted by Relays).
 > * **Unstoppable:** Your identity is a cryptographic key, not a profile on a server. You cannot be banned.
-> * **Marketplace (NIP-15):** A decentralized protocol for buying and selling goods. [cite_start]It's an unstoppable "Silk Road" made of text notes[cite: 366].
+> * **Marketplace (NIP-15):** A decentralized protocol for buying and selling goods. It's an unstoppable "Silk Road" made of text notes.
 >
 > Nostr is the operating system of the Agorist condensation.
 
@@ -398,11 +406,13 @@ Do not ask for permission to leave the table. Do not wait for the check. We aren
 * **Telegram Secret Chats:** Convenience for "grey" coordination (beware metadata).
 * **SimpleX Chat:** Metadata-free comms for the "cold" network (No IDs).
 * **Nostr:** Censorship-resistant social & market layer (NIP-15).
+* **Meshtastic:** LoRa radios for off-grid comms.
 
 **Class 4: Operating Systems**
 
 * **Linux:** The base layer of sovereignty. (Debian/Qubes/Tails).
 * **GrapheneOS:** The only mobile OS for the high-velocity individual. De-Googled Android.
+* **Start9 / Umbrel:** The personal server OS. Runs Bitcoin nodes, Nostr relays, and file storage.
 
 **Class 5: Cognition (AI)**
 
